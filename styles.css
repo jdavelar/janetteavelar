@@ -1,89 +1,75 @@
-/* css styles */
+/* =====================================================
+   Janette Avelar — Branded Quarto Site Styles
+   Bold • Professional • Human
+   ===================================================== */
+
+/* ---------- BRAND TOKENS ---------- */
 :root{
-  /* Vibrant palette */
-  --teal: #05a8aa;
-  --sage: #b8d5b8;
-  --tan:  #d7b49e;
-  --orange:#dc602e;
-  --red:  #bc412b;
+  /* Core brand */
+  --indigo: #1f2a44;   /* foundation */
+  --teal:   #05a8aa;   /* primary accent */
+  --coral:  #dc602e;   /* energy accent */
 
-  /* Neutrals for polish */
-  --ink: #1f2a44;
-  --muted:#5f6673;
-  --soft:#f6f8fb;
-  --line:#e6e8ee;
+  /* Neutrals */
+  --surface: #f7f9fc;  /* card background */
+  --ink:     #101828;  /* primary text */
+  --muted:   #667085;  /* secondary text */
+  --border:  rgba(255,255,255,.14);
 }
 
-/* Typography */
+/* ---------- GLOBAL ---------- */
 body{
-  font-family: "Signika", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: "Signika", system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Arial, sans-serif;
+  background: var(--indigo);
   color: var(--ink);
-  background: linear-gradient(180deg, var(--soft), #fff 45%);
+  line-height: 1.6;
 }
 
-/* Links */
-a{ color: var(--teal); }
-a:hover{ color: var(--orange); }
+/* ---------- LINKS ---------- */
+a{
+  color: var(--teal);
+  font-weight: 600;
+  text-decoration: none;
+}
+a:hover{
+  color: var(--coral);
+  text-decoration: underline;
+}
 
-/* Navbar: subtle teal bar */
+/* ---------- NAVBAR ---------- */
 .navbar{
-  border-bottom: 4px solid rgba(5,168,170,.25);
+  background: var(--indigo);
+  border-bottom: 3px solid rgba(5,168,170,.35);
+}
+.navbar a{
+  color: #e6edf6 !important;
+}
+.navbar a:hover{
+  color: var(--coral) !important;
 }
 
-/* Headings: teal underline */
-h2{
-  position: relative;
-  padding-bottom: .35rem;
+/* ---------- HEADINGS ---------- */
+h1, h2, h3, h4{
+  font-weight: 700;
+  letter-spacing: .01em;
 }
-h2::after{
-  content:"";
-  position:absolute;
-  left:0;
-  bottom:0;
+
+/* Headings on dark background */
+h1, h2{
+  color: #eef2f8;
+}
+
+/* Headings inside cards */
+.section-card h2,
+.section-card h3,
+.project h2,
+.project h3{
+  color: var(--indigo);
+}
+
+/* Accent underline for section headers */
+.section-card h2::after{
+  content: "";
+  display: block;
   width: 3rem;
-  height: .25rem;
-  border-radius: 999px;
-  background: var(--teal);
-}
-
-/* Card-like sections */
-.section-card{
-  background: #fff;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  padding: 1.1rem 1.2rem;
-  margin: 1rem 0;
-  box-shadow: 0 14px 30px rgba(0,0,0,.06);
-}
-
-/* Project cards */
-.project{
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  padding: 1rem 1.1rem;
-  margin: 1rem 0;
-  background: #fff;
-}
-.project .meta{
-  color: var(--muted);
-  margin-top: .25rem;
-}
-.badges{
-  display:flex;
-  gap:.5rem;
-  flex-wrap:wrap;
-  margin-top:.6rem;
-}
-.badge{
-  font-size:.9rem;
-  padding:.25rem .55rem;
-  border-radius:999px;
-  border:1px solid rgba(5,168,170,.25);
-  background: rgba(5,168,170,.10);
-}
-
-/* Callouts (Quarto callout blocks) */
-.callout-note{ border-left-color: var(--teal); }
-.callout-important{ border-left-color: var(--orange); }
-.callout-warning{ border-left-color: var(--red); }
-.callout-tip{ border-left-color: var(--sage); }

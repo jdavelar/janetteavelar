@@ -3,7 +3,7 @@
     "path": "~/Personal/janetteavelar/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "3942506845",
+    "hash": "2233743593",
     "contents": "",
     "dirty": false,
     "created": 1769392227807.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "87,32",
-        "scrollLine": "66"
+        "cursorPosition": "75,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1769392244,
+    "lastKnownWriteTime": 1769394099,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1769392244626,
+    "last_content_update": 1769394099132,
     "read_only": false,
     "read_only_alternatives": []
 }
