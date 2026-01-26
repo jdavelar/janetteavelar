@@ -14,13 +14,25 @@ My three-paper dissertation examines how education policies related to language 
 ::: project
 ## **The Canopy Project** (CRPE)
 
-Open-access work documenting schoolwide practices in innovative learning environments. This year’s focus is on documenting career-connected learning within schools.
+Open-access work documenting schools across the country that have been nominated for creating environments that are engaging, effective, and empowering for all learners - especially those furthest from opportunity. This year, the survey will focus on documenting career-connected learning within schools to understand how innovative schools are approaching college and career readiness.
 
 [Visit the Canopy website](canopyschools.org){.btn-coral}
 
 **Outputs:** [R package {canopyexplorer}](https://github.com/jdavelar/canopyexplorer), [Annual research reports](https://canopyschools.org/publications/), [Open access data sets](https://canopyschools.org/datasets-research-tools/)
 
 **Methods:** Survey Design, Linear/logistic regression, Confirmatory + Exploratory factor analysis, Thematic analysis, Interview, Mixed methods
+:::
+
+::: project
+## **District Transformation in New England** (CRPE)
+
+A two-year study supported by the Barr Foundation investigating how New England district leaders drive district-wide transformation, the barriers that stall progress, and the leadership strategies that help systems better serve every student.
+
+[Visit the CRPE website](https://crpe.org/projects/district-transformation-in-new-england/){.btn-coral}
+
+**Outputs:** Survey findings, District case studies, Project briefs and publications (forthcoming)
+
+**Methods:** Survey, Interviews, Comparative Case Studies, Qualitative Analysis, Mixed Methods, Descriptive quantitative analysis, Regression
 :::
 
 ::: project

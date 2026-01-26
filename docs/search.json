@@ -81,7 +81,7 @@
     "href": "projects.html#the-canopy-project-crpe",
     "title": "Current Projects",
     "section": "The Canopy Project (CRPE)",
-    "text": "The Canopy Project (CRPE)\nOpen-access work documenting schoolwide practices in innovative learning environments. This year’s focus is on documenting career-connected learning within schools.\nVisit the Canopy website\nOutputs: R package {canopyexplorer}, Annual research reports, Open access data sets\nMethods: Survey Design, Linear/logistic regression, Confirmatory + Exploratory factor analysis, Thematic analysis, Interview, Mixed methods"
+    "text": "The Canopy Project (CRPE)\nOpen-access work documenting schools across the country that have been nominated for creating environments that are engaging, effective, and empowering for all learners - especially those furthest from opportunity. This year, the survey will focus on documenting career-connected learning within schools to understand how innovative schools are approaching college and career readiness.\nVisit the Canopy website\nOutputs: R package {canopyexplorer}, Annual research reports, Open access data sets\nMethods: Survey Design, Linear/logistic regression, Confirmatory + Exploratory factor analysis, Thematic analysis, Interview, Mixed methods"
   },
   {
     "objectID": "projects.html#national-research-development-center-to-improve-education-for-secondary-english-learners",
@@ -187,5 +187,12 @@
     "title": "Janette Avelar",
     "section": "Podcasts & Media",
     "text": "Podcasts & Media\n\nInnovation in Action: What We’re Learning from Canopy Schools Community Conversations with the National Association of Charter School Authorizers, 2025\nThe Canopy Project — Access to Innovative Practices A Revolution in Education, 2023\nConfronting book bans: What do educators need to know? Literacy Today, 2023."
+  },
+  {
+    "objectID": "projects.html#district-transformation-in-new-england-crpe",
+    "href": "projects.html#district-transformation-in-new-england-crpe",
+    "title": "Current Projects",
+    "section": "District Transformation in New England (CRPE)",
+    "text": "District Transformation in New England (CRPE)\nA two-year study supported by the Barr Foundation investigating how New England district leaders drive district-wide transformation, the barriers that stall progress, and the leadership strategies that help systems better serve every student.\nVisit the CRPE website\nOutputs: Survey findings, District case studies, Project briefs and publications (forthcoming)\nMethods: Survey, Interviews, Comparative Case Studies, Qualitative Analysis, Mixed Methods, Descriptive quantitative analysis, Regression"
   }
 ]

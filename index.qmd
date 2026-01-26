@@ -2,7 +2,7 @@
 title: ""
 ---
 
-::: section-card
+::: {section-card}
 # About me
 
 -   **Research Analyst** [Center on Reinventing Public Education](https://crpe.org/)
@@ -18,7 +18,7 @@ title: ""
 [Download CV](running_CV.docx){.btn-coral}
 :::
 
-::: section-card
+::: {section-card}
 ## What I work on
 
 -   Access to learning opportunities for multilingual learners
@@ -30,10 +30,10 @@ title: ""
 
 **SO WHAT?**
 
-Why study policy? Because access to opportunity isn’t determined by policy alone. It’s shaped profoundly by how policies are understood, enacted, and negotiated. I've long been sucked in by questions like <span class="highlight">Who gets to decide?</span> and <span class="highlight">Whose knowledge matters?</span> and I keep them central in the questions I ask and the ways I seek to answer them.
+Why study policy? Because access to opportunity isn’t determined by policy alone. It’s shaped profoundly by how policies are understood, enacted, and negotiated. I've long been sucked in by questions like [Who gets to decide?]{.highlight} and [Whose knowledge matters?]{.highlight} and I keep them central in the questions I ask and the ways I seek to answer them.
 :::
 
-::: section-card
+::: {section-card}
 ## Quick links
 
 -   [**Current Projects**](projects.qmd)
