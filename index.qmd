@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+::: section-card
+# Janette Avelar
+
+PhD Candidate (Quantitative Research Methods in Education), University of Oregon • Research Analyst, Center on Reinventing Public Education
+
+I study how race and language shape educational opportunity through policy labels (e.g., English learner classification, TAG identification) and the systems that translate labels into course access and learning experiences. :contentReference[oaicite:1]{index="1"}
+:::
+
+::: section-card
+## Quick links
+
+-   **Current Projects:** a snapshot of what I’m working on now
+-   **Publications:** journal articles, reports, briefs, and works in progress
+-   **Presentations:** conference talks, webinars, and podcasts
+-   **Contact:** email + links to Scholar/ORCID/GitHub
+:::
+
+::: section-card
+## Currently
+
+-   Multilingual learners’ access to advanced coursework and how TAG identification shapes opportunity
+-   Policy levers shaping course access (waiving services, extra instructional time, counselor availability)
+-   Building open-access datasets on innovative school practices (The Canopy Project)
+:::

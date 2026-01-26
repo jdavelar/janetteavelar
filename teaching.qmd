@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+---
+
+## Courses taught
+
+-   EDLD 684 Masters’ Seminar in Educational Policy and Leadership :contentReference[oaicite:25]{index="25"}
+
+## Professional development
+
+-   Critical Literacy Pedagogy for K–8 Educators I & II (facilitation + course development) :contentReference[oaicite:26]{index="26"}
+
+## Courses assisted
+
+-   EDUC 611 Survey of Research Methods
+-   EDUC 614 Educational Statistics
+-   EDST 463 Foundations of Literacy
+-   EDST 420 Living in a Stratified Society
+-   EDLD 211 Exploring Leadership :contentReference[oaicite:27]{index="27"}
