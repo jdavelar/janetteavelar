@@ -1,14 +1,14 @@
 {
-    "id": "CE76D2ED",
+    "id": "4E159B49",
     "path": "~/Personal/janetteavelar/resources.qmd",
     "project_path": "resources.qmd",
     "type": "quarto_markdown",
-    "hash": "2173131756",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1769392536115.0,
+    "created": 1769407580040.0,
     "source_on_save": false,
-    "relative_order": 10,
+    "relative_order": 4,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "14,0",
+        "cursorPosition": "16,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "454:0"
+        "rmdVisualModeLocation": "288:38.5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1769392543,
+    "lastKnownWriteTime": 1769407780,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1769392543466,
+    "last_content_update": 1769407780599,
     "read_only": false,
     "read_only_alternatives": []
 }

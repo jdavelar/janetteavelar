@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "(Coming soon.) I’ll keep a lightweight, curated list here—focused on multilingual education policy, TAG identification, and critical quantitative methods."
+    "text": "This page is currently under development 😎"
   },
   {
     "objectID": "resources.html#what-im-reading",
     "href": "resources.html#what-im-reading",
     "title": "Resources",
-    "section": "",
-    "text": "(Coming soon.) I’ll keep a lightweight, curated list here—focused on multilingual education policy, TAG identification, and critical quantitative methods."
+    "section": "What I’m reading",
+    "text": "What I’m reading"
   },
   {
     "objectID": "resources.html#reading-lists",
@@ -21,199 +21,171 @@
     "text": "Reading lists\n\nTAG and identification equity (coming soon)\nMultilingual learners + course access (coming soon)\nMAIHDA / intersectional modeling (coming soon)"
   },
   {
-    "objectID": "resources.html#code-tools",
-    "href": "resources.html#code-tools",
+    "objectID": "resources.html#other-cool-stuff",
+    "href": "resources.html#other-cool-stuff",
     "title": "Resources",
-    "section": "Code & tools",
-    "text": "Code & tools\n\ncanopyexplorer (link to repo)\nOther public repos (as relevant)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About / CV",
-    "section": "",
-    "text": "I’m a PhD candidate in Quantitative Research Methods in Education at the University of Oregon (specialization: Educational Data Science) and a Research Analyst at CRPE. My work focuses on how race and language shape educational opportunity through policy labels and the systems that translate labels into course access and learning experiences. :contentReferenceoaicite:22\nDownload: CV (PDF)"
-  },
-  {
-    "objectID": "about.html#bio",
-    "href": "about.html#bio",
-    "title": "About / CV",
-    "section": "",
-    "text": "I’m a PhD candidate in Quantitative Research Methods in Education at the University of Oregon (specialization: Educational Data Science) and a Research Analyst at CRPE. My work focuses on how race and language shape educational opportunity through policy labels and the systems that translate labels into course access and learning experiences. :contentReferenceoaicite:22\nDownload: CV (PDF)"
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About / CV",
-    "section": "Research interests",
-    "text": "Research interests\n\nMultilingual learners and educational opportunity\nTAG identification, advanced coursework, and access\nPolicy implementation and equity\nCritical approaches to quantitative and mixed methods (QuantCrit)\nStudent-centered innovation and open data products :contentReferenceoaicite:23"
-  },
-  {
-    "objectID": "about.html#headshot",
-    "href": "about.html#headshot",
-    "title": "About / CV",
-    "section": "Headshot",
-    "text": "Headshot\n(Optional) Add assets/headshot.jpg and embed it here."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Janette Avelar",
-    "section": "",
-    "text": "PhD Candidate (Quantitative Research Methods in Education), University of Oregon • Research Analyst, Center on Reinventing Public Education\nI study how race and language shape educational opportunity through policy labels (e.g., English learner classification, TAG identification) and the systems that translate labels into course access and learning experiences. :contentReferenceoaicite:1"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Janette Avelar",
-    "section": "Quick links",
-    "text": "Quick links\n\nCurrent Projects: a snapshot of what I’m working on now\nPublications: journal articles, reports, briefs, and works in progress\nPresentations: conference talks, webinars, and podcasts\nContact: email + links to Scholar/ORCID/GitHub"
-  },
-  {
-    "objectID": "index.html#currently",
-    "href": "index.html#currently",
-    "title": "Janette Avelar",
-    "section": "Currently",
-    "text": "Currently\n\nMultilingual learners’ access to advanced coursework and how TAG identification shapes opportunity\nPolicy levers shaping course access (waiving services, extra instructional time, counselor availability)\nBuilding open-access datasets on innovative school practices (The Canopy Project)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: javelar7@uoregon.edu :contentReferenceoaicite:24\n\nLinkedIn: (add link)\nGoogle Scholar: (add link)\nORCID: (add link)\nGitHub: (add link)"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "EDLD 684 Masters’ Seminar in Educational Policy and Leadership :contentReferenceoaicite:25"
-  },
-  {
-    "objectID": "teaching.html#courses-taught",
-    "href": "teaching.html#courses-taught",
-    "title": "Teaching",
-    "section": "",
-    "text": "EDLD 684 Masters’ Seminar in Educational Policy and Leadership :contentReferenceoaicite:25"
-  },
-  {
-    "objectID": "teaching.html#professional-development",
-    "href": "teaching.html#professional-development",
-    "title": "Teaching",
-    "section": "Professional development",
-    "text": "Professional development\n\nCritical Literacy Pedagogy for K–8 Educators I & II (facilitation + course development) :contentReferenceoaicite:26"
-  },
-  {
-    "objectID": "teaching.html#courses-assisted",
-    "href": "teaching.html#courses-assisted",
-    "title": "Teaching",
-    "section": "Courses assisted",
-    "text": "Courses assisted\n\nEDUC 611 Survey of Research Methods\nEDUC 614 Educational Statistics\nEDST 463 Foundations of Literacy\nEDST 420 Living in a Stratified Society\nEDLD 211 Exploring Leadership :contentReferenceoaicite:27"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Current Projects",
-    "section": "",
-    "text": "Below are current and recent projects. Each includes a short description plus outputs and methods."
-  },
-  {
-    "objectID": "projects.html#invisible-choices-in-overlooked-pathways-dissertation",
-    "href": "projects.html#invisible-choices-in-overlooked-pathways-dissertation",
-    "title": "Current Projects",
-    "section": "Invisible Choices in Overlooked Pathways (Dissertation)",
-    "text": "Invisible Choices in Overlooked Pathways (Dissertation)\nHow policy labels (e.g., English learner classification, TAG identification) shape students’ access to opportunity—and what happens beyond the label.\nOutputs: CV (PDF) • (add: papers, slides, briefs)\nMethods:\nAdministrative data MAIHDA Policy analysis"
-  },
-  {
-    "objectID": "projects.html#tag-identification-as-a-lever-for-advanced-coursework-access",
-    "href": "projects.html#tag-identification-as-a-lever-for-advanced-coursework-access",
-    "title": "Current Projects",
-    "section": "TAG identification as a lever for advanced coursework access",
-    "text": "TAG identification as a lever for advanced coursework access\nIntersectional patterns in multilingual learners’ identification and downstream access to advanced coursework.\nOutputs: (add: MLRC webinar slides / recording)\nMethods:\nMAIHDA Multilevel modeling Intersectionality"
-  },
-  {
-    "objectID": "projects.html#waiving-english-learner-services",
-    "href": "projects.html#waiving-english-learner-services",
-    "title": "Current Projects",
-    "section": "Waiving English learner services",
-    "text": "Waiving English learner services\nPrevalence, predictors, and estimated effects of waiving services on coursetaking and graduation.\nOutputs: (add: AERA Open under review; policy briefs) :contentReferenceoaicite:2\nMethods:\nLongitudinal admin data Quasi-experimental Policy evaluation"
-  },
-  {
-    "objectID": "projects.html#the-canopy-project-crpe",
-    "href": "projects.html#the-canopy-project-crpe",
-    "title": "Current Projects",
-    "section": "The Canopy Project (CRPE)",
-    "text": "The Canopy Project (CRPE)\nOpen-access work on schoolwide practices in innovative learning environments; reports and briefs on trends and accountability.\nOutputs: (add: report links + repo like canopyexplorer) :contentReferenceoaicite:3\nMethods:\nSurvey + tagging Descriptive + mixed methods Open data products"
+    "section": "Other cool stuff",
+    "text": "Other cool stuff"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Lucero, A. & Avelar, J.D. (2025). Building community among K-8 teachers through a university-educator network partnership. Education Sciences, 15(3), 268. :contentReferenceoaicite:4\n\nLucero, A., Schieble, M., Vetter, A., & Avelar, J. (2025). Critical inquiry groups as sites for learning about race and racism. Urban Education. :contentReferenceoaicite:5\n\nThompson, K.D., Avelar, J.D., et al. (2025). Waiving English learner services: Prevalence and student characteristics. Educational Researcher. :contentReferenceoaicite:6\n\nUmansky, I.M., Shin, N., Thompson, K.D., Avelar, J.D., et al. (2024). Beyond English instruction… Bilingual Research Journal. :contentReferenceoaicite:7\n\n(Add remaining published items as you like; we can paste the full list next.)"
+    "text": "Avelar, J.D. (2026). Race, silence, and critical language awareness in Spanish heritage language courses in the Pacific Northwest. (Under review). Journal of Education, Language, and Ideology.\nShin, N., Thompson, K.D., Umansky, I.M., & Avelar, J.D. (2026). Access and success in advanced high school courses for English learner classified students. (Under review). Educational Policy.\nUmansky, I.M., Avelar, J.D., & Thompson, K.D. (2026). The use, characteristics, and effects of extra instructional time for English learner students in secondary schools. (Under review). American Educational Research Journal.\nBlack, K.E., Thompson, K.D., Carlson, C.D., Bovee, J.B., Avelar, J.D., Umansky, I.M., Francis, D.J., & Kieffer, M.J. (2026). College-preparatory STEM coursetaking among English learner subgroups: Longitudinal evidence from four state policy contexts. (Under review). TESOL Quarterly.\nThompson, K.D., Avelar, J.D., Umansky, I.M., Bovee, J., Bromley, K., & Shin, N. (2026) The estimated effects of waiving English learner services on course-taking and graduation. (Under review). AERA Open."
+  },
+  {
+    "objectID": "publications.html#in-progress",
+    "href": "publications.html#in-progress",
+    "title": "Publications",
+    "section": "",
+    "text": "Avelar, J.D. (2026). Race, silence, and critical language awareness in Spanish heritage language courses in the Pacific Northwest. (Under review). Journal of Education, Language, and Ideology.\nShin, N., Thompson, K.D., Umansky, I.M., & Avelar, J.D. (2026). Access and success in advanced high school courses for English learner classified students. (Under review). Educational Policy.\nUmansky, I.M., Avelar, J.D., & Thompson, K.D. (2026). The use, characteristics, and effects of extra instructional time for English learner students in secondary schools. (Under review). American Educational Research Journal.\nBlack, K.E., Thompson, K.D., Carlson, C.D., Bovee, J.B., Avelar, J.D., Umansky, I.M., Francis, D.J., & Kieffer, M.J. (2026). College-preparatory STEM coursetaking among English learner subgroups: Longitudinal evidence from four state policy contexts. (Under review). TESOL Quarterly.\nThompson, K.D., Avelar, J.D., Umansky, I.M., Bovee, J., Bromley, K., & Shin, N. (2026) The estimated effects of waiving English learner services on course-taking and graduation. (Under review). AERA Open."
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
-    "section": "",
-    "text": "Lucero, A. & Avelar, J.D. (2025). Building community among K-8 teachers through a university-educator network partnership. Education Sciences, 15(3), 268. :contentReferenceoaicite:4\n\nLucero, A., Schieble, M., Vetter, A., & Avelar, J. (2025). Critical inquiry groups as sites for learning about race and racism. Urban Education. :contentReferenceoaicite:5\n\nThompson, K.D., Avelar, J.D., et al. (2025). Waiving English learner services: Prevalence and student characteristics. Educational Researcher. :contentReferenceoaicite:6\n\nUmansky, I.M., Shin, N., Thompson, K.D., Avelar, J.D., et al. (2024). Beyond English instruction… Bilingual Research Journal. :contentReferenceoaicite:7\n\n(Add remaining published items as you like; we can paste the full list next.)"
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nLucero, A. & Avelar, J.D. (2025). Building community among K-8 teachers through a university-educator network partnership. Education Sciences, 15(3), 268. DOI: 10.3390/educsci15030268.\nLucero, A., Schieble, M., Vetter, A., & Avelar, J. (2025). Critical inquiry groups as sites for learning about race and racism. Urban Education, 0(0). DOI: 10.1177/00420859251359254.\nThompson, K.D., Avelar, J.D., Carlson, C., Kulesz, P., Black, K., Umansky, I.M., Kieffer, M., & Francis, D. (2025). Waiving English learner services: Prevalence and student characteristics. Educational Researcher, 0(0). DOI: 10.3102/0013189X251372538.\nUmansky, I.M., Shin, N., Thompson, K.D., Avelar, J.D., & Bovee, J. (2024). Beyond English instruction: A multistate analysis of Lau’s unfulfilled promise of access to core content. Bilingual Research Journal, 47(4), 504-531. DOI: 10.1080/15235882.2024.2412532.\nLucero, A., & Avelar J. (2023). “It’s probably still written by a white person”: Challenging assumptions about racial identity in a critical professional development course. Critical Discourse Studies, DOI: 10.1080/17405904.2022.2164788.\nUmansky, I., & Avelar, J. (2022). Canaried in the coal mine: What the experiences and outcomes of students considered long-term English learners can teach us about pitfalls in English learner education…and what we can do about it. Journal of Education for Students Placed at Risk. DOI: 10.1080/10824669.2022.2123326.\nLucero, A., & Avelar, J. (2022). Exploring the challenges and possibilities of critical literacy pedagogy: K-8 teacher discussions about race in a virtual Professional Development course. English Teaching: Practice and Critique. DOI: 10.1108/ETPC-05-2022-0065.\nFainstein, D., Avelar, J., Whitney, M., & Swinehart, J. (2021). Exploring prevalence rates of students with exceptionalities in British Columbia. International Journal of Technology and Inclusive Education, 10(1), 1654-1658. DOI: 10.20533/ijtie.2047.0533.2021.0203.\nVelasco, J.I., Velázquez, I., & Avelar, J. (2018). From Jesusita to Jane: Personal names, self-presentation and digital preservation of Mexican American experience in the US Midwest. Revista de Humanidades Digitales, 2, 49-76. DOI: 10.5944/rhd.vol.2.2018.20413"
   },
   {
     "objectID": "publications.html#research-reports",
     "href": "publications.html#research-reports",
     "title": "Publications",
     "section": "Research Reports",
-    "text": "Research Reports\n\nWaite, C., Nitkin, D., & Avelar, J. (2025). Making room for what matters… The Canopy Project. :contentReferenceoaicite:8\n\nWaite, C., & Avelar, J. (2024). Promising progress, fragile foundations… The Canopy Project. :contentReferenceoaicite:9\n\nPolikoff, M., Michel-Herf, N., Avelar, J., et al. (2024). How transparent are state school report cards… CRPE. :contentReferenceoaicite:10\n\nAvelar, J., Zyskind, K., & Daza, T. (2023). Prioritizing multilingual learners… The Canopy Project. :contentReferenceoaicite:11"
+    "text": "Research Reports\n\nWaite, C., Nitkin, D., & Avelar, J. (2025). Making room for what matters: Innovative school leaders want accountability, but with a lighter footprint. The Canopy Project.\n\nWaite, C., & Avelar, J. (2024). Promising progress, fragile foundations: A five-year analysis of school innovation, 2019-2024. The Canopy Project.\n\nPolikoff, M., Michel-Herf, N., Avelar, J., Pillow, T., Pangelinan, C., & Casimere, H. (2024). How transparent are state school report cards about the effects of COVID? Center on Reinventing Public Education.\n\nAvelar, J., Zyskind, K., & Daza, T. (2023). Prioritizing multilingual learners: How inclusive schools meet the needs of bilingual students and English learners. The Canopy Project.\nWaite, C., & Avelar, J. (2023). Dreaming and designing the future of equitable, student-centered schools: What we’re learning from the Canopy project. The Canopy Project."
   },
   {
     "objectID": "publications.html#briefs",
     "href": "publications.html#briefs",
     "title": "Publications",
     "section": "Briefs",
-    "text": "Briefs\n\nUmansky, I., Shin, N., Thompson, K.D., Avelar, J., & Bovee, J. (2024). English learners’ access to core content… :contentReferenceoaicite:12\n\nVasquez Cano, M., Avelar, J., Thompson, K.D., & Umansky, I. (2023). Extra instructional time… :contentReferenceoaicite:13\n\n(Add other brief links; we’ll format consistently.)"
+    "text": "Briefs\n\nAvelar, J., Thompson, K., & Umansky, I. (January, 2026) The effects of waiving English learner services: Examining policy levers for English learner course access.\nThompson, K.D., Avelar, J., Carlson, C., Kulesz, P., Black, K., Umansky, I., Kieffer, M., Francis, D., & Huq, N. (January, 2026) Waiving English learner services: Who does it and why?\nUmansky, I., Shin, N., Thompson, K.D., Avelar, J., & Bovee, J. (August, 2024) English learners’ access to core content: Academic enrolment in high school.\nVasquez Cano, M., Avelar, J., Thompson, K.D., Umansky, I. (September, 2023) Extra instructional time: Examining policy levers for English learner course access.\nVasquez Cano, M., Avelar, J., Thompson, K.D., Umansky, I. (July, 2023) Bilingual education: Examining policy levers for English learner course access.\nVasquez Cano, M., Avelar, J., Thompson, K.D., Umansky, I. (July, 2023) Counselor availability: Examining policy levers for English learner course access.\nVasquez Cano, M., Avelar, J., Thompson, K.D., Umansky, I. (July, 2023) Teacher preparation: Examining policy levers for English learner course access."
   },
   {
-    "objectID": "publications.html#in-progress",
-    "href": "publications.html#in-progress",
-    "title": "Publications",
-    "section": "In progress",
-    "text": "In progress\n\nAvelar, J.D. (under review). Race, silence, and critical language awareness… :contentReferenceoaicite:14\n\nShin, N., Thompson, K.D., Umansky, I.M., & Avelar, J.D. (under review). Access and success in advanced high school courses… :contentReferenceoaicite:15\n\n(Add remaining under-review items.)"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "My three-paper dissertation examines how education policies related to language services and gifted identification are interpreted and enacted, and how these processes shape multilingual students’ access to learning opportunities across different institutional contexts.\nOutputs: Dissertation forthcoming, Conference presentations\nMethods: Critical discourse analysis, Thematic analysis, Intersectional modeling (MAIHDA), Regression Models, Document analysis, Quasi-experimental policy analysis (difference-in-differences)"
   },
   {
-    "objectID": "publications.html#other",
-    "href": "publications.html#other",
-    "title": "Publications",
-    "section": "Other",
-    "text": "Other\n\nLucero, A. & Avelar, J. (2023). Confronting book bans… Literacy Today (invited). :contentReferenceoaicite:16"
+    "objectID": "projects.html#invisible-choices-in-overlooked-pathways-dissertation",
+    "href": "projects.html#invisible-choices-in-overlooked-pathways-dissertation",
+    "title": "Current Projects",
+    "section": "",
+    "text": "My three-paper dissertation examines how education policies related to language services and gifted identification are interpreted and enacted, and how these processes shape multilingual students’ access to learning opportunities across different institutional contexts.\nOutputs: Dissertation forthcoming, Conference presentations\nMethods: Critical discourse analysis, Thematic analysis, Intersectional modeling (MAIHDA), Regression Models, Document analysis, Quasi-experimental policy analysis (difference-in-differences)"
+  },
+  {
+    "objectID": "projects.html#the-canopy-project-crpe",
+    "href": "projects.html#the-canopy-project-crpe",
+    "title": "Current Projects",
+    "section": "The Canopy Project (CRPE)",
+    "text": "The Canopy Project (CRPE)\nOpen-access work documenting schoolwide practices in innovative learning environments. This year’s focus is on documenting career-connected learning within schools.\nVisit the Canopy website\nOutputs: R package {canopyexplorer}, Annual research reports, Open access data sets\nMethods: Survey Design, Linear/logistic regression, Confirmatory + Exploratory factor analysis, Thematic analysis, Interview, Mixed methods"
+  },
+  {
+    "objectID": "projects.html#national-research-development-center-to-improve-education-for-secondary-english-learners",
+    "href": "projects.html#national-research-development-center-to-improve-education-for-secondary-english-learners",
+    "title": "Current Projects",
+    "section": "National Research & Development Center to Improve Education for Secondary English Learners",
+    "text": "National Research & Development Center to Improve Education for Secondary English Learners\nCollaborative research work examining equity-related questions in education through applied quantitative and mixed-methods analysis. Current projects involve analyzing cross-state data in Oregon, Michigan, and Pennsylvania, supporting research synthesis, and contributing to reports and briefs intended for research, policy, and practitioner audiences.\nVisit the R&D Center website\nMethods: Quantitative analysis; Longitudinal and panel methods; Secondary data analysis; Large-scale analysis\nOutputs: Journal articles (see publications tab), briefs, and conference presentations"
+  },
+  {
+    "objectID": "projects.html#equitable-disproportionality-measurement-lab",
+    "href": "projects.html#equitable-disproportionality-measurement-lab",
+    "title": "Current Projects",
+    "section": "Equitable Disproportionality Measurement Lab",
+    "text": "Equitable Disproportionality Measurement Lab\nAn emerging research collaboration focused on questions of equity, measurement, and interpretation in education data, particularly for students with disabilities and multilingual learners.\nStatus: In formation… more soon! 👀\nMethods: Quantitative analysis, QuantCrit\nOutputs:"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "EDLD 684 Masters’ Seminar in Educational Policy and Leadership"
+  },
+  {
+    "objectID": "teaching.html#courses-taught",
+    "href": "teaching.html#courses-taught",
+    "title": "Teaching",
+    "section": "",
+    "text": "EDLD 684 Masters’ Seminar in Educational Policy and Leadership"
+  },
+  {
+    "objectID": "teaching.html#professional-development",
+    "href": "teaching.html#professional-development",
+    "title": "Teaching",
+    "section": "Professional development",
+    "text": "Professional development\n\nCritical Literacy Pedagogy for K–8 Educators I & II (facilitation + course development)"
+  },
+  {
+    "objectID": "teaching.html#courses-assisted",
+    "href": "teaching.html#courses-assisted",
+    "title": "Teaching",
+    "section": "Courses assisted",
+    "text": "Courses assisted\n\nEDUC 611 Survey of Research Methods\nEDUC 614 Educational Statistics\nEDST 463 Foundations of Literacy\nEDST 420 Living in a Stratified Society\nEDLD 211 Exploring Leadership"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Janette Avelar",
+    "section": "",
+    "text": "Email\njavelar7@uoregon.edu\njanette.avelar@asu.edu\n\n LinkedIn\nLinkedIn Profile\n\n Google Scholar\nGoogle Scholar profile\n\n ORCID\n0000-0003-0730-1116\n\n GitHub\ngithub.com/jdavelar"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Janette Avelar",
+    "section": "",
+    "text": "Email\njavelar7@uoregon.edu\njanette.avelar@asu.edu\n\n LinkedIn\nLinkedIn Profile\n\n Google Scholar\nGoogle Scholar profile\n\n ORCID\n0000-0003-0730-1116\n\n GitHub\ngithub.com/jdavelar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Research Analyst Center on Reinventing Public Education\nPhD Candidate Quantitative Research Methods in Education | University of Oregon\n\nAs a researcher: I study how race and language shape educational opportunity, with a focus on how policy labels (e.g., English learner classification and TAG identification) are interpreted, enacted, and translated into students’ access to coursework and learning experiences. My work draws on mixed methods and critical perspectives to examine how systems designed to promote equity often reproduce inequality in practice. These questions are deeply informed by my own experiences navigating K–12 public education as a former English learner and second-generation immigrant.\nAs a human: I’m a curious and passionate person—a lifelong bookworm and an even bigger pop culture enthusiast. In another life, I became a pop culture writer; in this one, I have high hopes of building boutique reality TV datasets with the free time I’m convinced I’ll have once my PhD is finished.\n\nDownload CV"
+  },
+  {
+    "objectID": "index.html#what-i-work-on",
+    "href": "index.html#what-i-work-on",
+    "title": "About me",
+    "section": "What I work on",
+    "text": "What I work on\n\nAccess to learning opportunities for multilingual learners\nHow policy labels are interpreted and enacted in schools\nEducators’ roles in ensuring families are informed of their rights and options\nSchool and district innovation\nEquity-oriented measurement and open data\nCritical approaches to quantitative and mixed methods\n\nSO WHAT?\nWhy study policy? Because access to opportunity isn’t determined by policy alone. It’s shaped profoundly by how policies are understood, enacted, and negotiated. I’ve long been sucked in by questions like Who gets to decide? and Whose knowledge matters? and I keep them central in the questions I ask and the ways I seek to answer them."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "About me",
+    "section": "Quick links",
+    "text": "Quick links\n\nCurrent Projects\nPublications\nPresentations\nTeaching\nResources\nContact"
   },
   {
     "objectID": "presentations.html",
     "href": "presentations.html",
-    "title": "Presentations",
+    "title": "Janette Avelar",
     "section": "",
-    "text": "Avelar, J., Thompson, K.D., & Umansky, I.M. (2025). TAG identification as a lever for advanced coursework access… SREE (Chicago). :contentReferenceoaicite:17"
+    "text": "International\n\nExploring anomalies in pacific northwest special education trends. Canada International Conference in Education, 2021 — Non-presenting co-author\n\nNational\n\n(Re)shaping Multilingual Learners’ Schooling: Educators as Translators of Language Policy. American Educational Research Association (AERA), 2026 — Symposium co-organizer & Presenter\nWidening the Gate? Inclusive Identification Policies and Multilingual Learner Access to TAG. AERA, 2026 — Presenter\nBeyond Access: English Learner Students’ Enrollment in and Completion of Advanced High School Coursework. AERA, 2026 — Non-presenting co-author\nTAG identification as a lever for advanced coursework access for English learners: An intersectional MAIHDA approach. Society for Research on Educational Effectiveness (SREE), 2025 — Presenter\nBeyond single-axis analysis: Applying the intersectional MAIHDA method to examine disparities in subjective disciplinary incidents. SREE, 2025 — Non-presenting co-author\nWho waives English learner services and how does waiving impact course-taking and graduation? SREE, 2024 — Presenter\nWho waives EL services and what are the effects of waiving? Institute of Education Sciences Research and Development Centers Conference on Improving Instruction, Assessment, and Policies for Secondary English Learners Across the Content Areas, 2024 — Presenter\nExtra instructional time: A lever to support multilingual students’ access to core content instruction. Institute of Education Sciences Research and Development Centers Conference on Improving Instruction, Assessment, and Policies for Secondary English Learners Across the Content Areas, 2024 — Presenter\nCritical encounters with texts in a professional development course. Literacy Research Association (LRA), 2023 — Non-presenting co-author\nDiscussing Race in a Yearlong Critical Inquiry Book Study. LRA, 2023 — Non-presenting co-author\nUsing Discourse Analysis to Explore Critical Inquiry Work with Literacy Teachers. LRA, 2023 — Non-presenting co-author\n“It’s probably still written by a white person”: Challenging assumptions in a critical PD course. AERA, 2023 — Presenter\nExploring the challenges and possibilities of critical literacy pedagogy: K-8 teacher discussions about race in a virtual professional development course. LRA, 2022 — Presenter\nExploring discourses of race and racism in a critical literacy pedagogy (CLP) professional development course. LRA, 2022 — Presenter\n\nRegional\n\nLevers to support multilingual students’ access to core content instruction. ALK-8 Oregon Educators’ Summit, 2024 — Presenter\nExpanding course access for middle school and high school English learners. Coalition of Oregon School Administrators Multilingual and English Learner Annual Conference, 2024 — Presenter\nHow schools and families can expand course access for secondary-school English learner students: Examining waiving services and extra instructional time as levers. Oregon Association for Bilingual Education, 2024 — Presenter\n\nInstitutional\n\nUnpacking the Latinx Student Experience: Insights from a Midsize Urban School District. Center for Latino/a and Latin American Studies, 2024 — Presenter"
   },
   {
     "objectID": "presentations.html#conference-presentations",
     "href": "presentations.html#conference-presentations",
-    "title": "Presentations",
+    "title": "Janette Avelar",
     "section": "",
-    "text": "Avelar, J., Thompson, K.D., & Umansky, I.M. (2025). TAG identification as a lever for advanced coursework access… SREE (Chicago). :contentReferenceoaicite:17"
+    "text": "International\n\nExploring anomalies in pacific northwest special education trends. Canada International Conference in Education, 2021 — Non-presenting co-author\n\nNational\n\n(Re)shaping Multilingual Learners’ Schooling: Educators as Translators of Language Policy. American Educational Research Association (AERA), 2026 — Symposium co-organizer & Presenter\nWidening the Gate? Inclusive Identification Policies and Multilingual Learner Access to TAG. AERA, 2026 — Presenter\nBeyond Access: English Learner Students’ Enrollment in and Completion of Advanced High School Coursework. AERA, 2026 — Non-presenting co-author\nTAG identification as a lever for advanced coursework access for English learners: An intersectional MAIHDA approach. Society for Research on Educational Effectiveness (SREE), 2025 — Presenter\nBeyond single-axis analysis: Applying the intersectional MAIHDA method to examine disparities in subjective disciplinary incidents. SREE, 2025 — Non-presenting co-author\nWho waives English learner services and how does waiving impact course-taking and graduation? SREE, 2024 — Presenter\nWho waives EL services and what are the effects of waiving? Institute of Education Sciences Research and Development Centers Conference on Improving Instruction, Assessment, and Policies for Secondary English Learners Across the Content Areas, 2024 — Presenter\nExtra instructional time: A lever to support multilingual students’ access to core content instruction. Institute of Education Sciences Research and Development Centers Conference on Improving Instruction, Assessment, and Policies for Secondary English Learners Across the Content Areas, 2024 — Presenter\nCritical encounters with texts in a professional development course. Literacy Research Association (LRA), 2023 — Non-presenting co-author\nDiscussing Race in a Yearlong Critical Inquiry Book Study. LRA, 2023 — Non-presenting co-author\nUsing Discourse Analysis to Explore Critical Inquiry Work with Literacy Teachers. LRA, 2023 — Non-presenting co-author\n“It’s probably still written by a white person”: Challenging assumptions in a critical PD course. AERA, 2023 — Presenter\nExploring the challenges and possibilities of critical literacy pedagogy: K-8 teacher discussions about race in a virtual professional development course. LRA, 2022 — Presenter\nExploring discourses of race and racism in a critical literacy pedagogy (CLP) professional development course. LRA, 2022 — Presenter\n\nRegional\n\nLevers to support multilingual students’ access to core content instruction. ALK-8 Oregon Educators’ Summit, 2024 — Presenter\nExpanding course access for middle school and high school English learners. Coalition of Oregon School Administrators Multilingual and English Learner Annual Conference, 2024 — Presenter\nHow schools and families can expand course access for secondary-school English learner students: Examining waiving services and extra instructional time as levers. Oregon Association for Bilingual Education, 2024 — Presenter\n\nInstitutional\n\nUnpacking the Latinx Student Experience: Insights from a Midsize Urban School District. Center for Latino/a and Latin American Studies, 2024 — Presenter"
   },
   {
     "objectID": "presentations.html#webinars-invited-talks",
     "href": "presentations.html#webinars-invited-talks",
-    "title": "Presentations",
+    "title": "Janette Avelar",
     "section": "Webinars & invited talks",
-    "text": "Webinars & invited talks\n\nInvited guest speaker (Feb 2026). MLRC Speaker Series, UW–Madison. :contentReferenceoaicite:18\n\nPanelist/co-organizer (Sept 2023). EdLoC webinar on multilingual students. :contentReferenceoaicite:19"
+    "text": "Webinars & invited talks\n\nWho is seen as gifted? Intersectional patterns in MLs’ identification and educational opportunities Multilingual Learning Research Center (MLRC), 2026\nPrevalence of Electronic Nicotine Delivery Systems (ENDS) Use in U.S. Adults: A Design-Weighted MAIHDA ​Society for Prevention Research Sloboda and Bukoski SPR Cup National Research Competition, 2025\nBuilding inclusive student-centered learning environments for multilingual students Education Leaders of Color (EdLoC), 2023"
   },
   {
     "objectID": "presentations.html#podcasts-media",
     "href": "presentations.html#podcasts-media",
-    "title": "Presentations",
-    "section": "Podcasts & media",
-    "text": "Podcasts & media\n\nInvited guest speaker (Apr 2025). NACSA Community Conversations podcast: “Innovation in Action…” :contentReferenceoaicite:20\n\nInvited guest speaker (Dec 2023). A Revolution in Education podcast. :contentReferenceoaicite:21"
+    "title": "Janette Avelar",
+    "section": "Podcasts & Media",
+    "text": "Podcasts & Media\n\nInnovation in Action: What We’re Learning from Canopy Schools Community Conversations with the National Association of Charter School Authorizers, 2025\nThe Canopy Project — Access to Innovative Practices A Revolution in Education, 2023\nConfronting book bans: What do educators need to know? Literacy Today, 2023."
   }
 ]

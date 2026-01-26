@@ -3,26 +3,43 @@ title: ""
 ---
 
 ::: section-card
-# Janette Avelar
+# About me
 
-PhD Candidate (Quantitative Research Methods in Education), University of Oregon • Research Analyst, Center on Reinventing Public Education
+-   **Research Analyst** [Center on Reinventing Public Education](https://crpe.org/)
 
-I study how race and language shape educational opportunity through policy labels (e.g., English learner classification, TAG identification) and the systems that translate labels into course access and learning experiences. :contentReference[oaicite:1]{index="1"}
+-   **PhD Candidate** [Quantitative Research Methods in Education](https://education.uoregon.edu/qrme-graduate-student-showcase) \| University of Oregon
+
+**As a researcher:** I study how race and language shape educational opportunity, with a focus on how policy labels (e.g., English learner classification and TAG identification) are interpreted, enacted, and translated into students’ access to coursework and learning experiences. My work draws on mixed methods and critical perspectives to examine how systems designed to promote equity often reproduce inequality in practice. These questions are deeply informed by my own experiences navigating K–12 public education as a former English learner and second-generation immigrant.
+
+**As a human:** I’m a curious and passionate person—a lifelong bookworm and an even bigger pop culture enthusiast. In another life, I became a pop culture writer; in this one, I have high hopes of building boutique reality TV datasets with the free time I'm convinced I’ll have once my PhD is finished.
+
+<br>
+
+[Download CV](running_CV.docx){.btn-coral}
+:::
+
+::: section-card
+## What I work on
+
+-   Access to learning opportunities for multilingual learners
+-   How policy labels are interpreted and enacted in schools
+-   Educators’ roles in ensuring families are informed of their rights and options
+-   School and district innovation
+-   Equity-oriented measurement and open data
+-   Critical approaches to quantitative and mixed methods
+
+**SO WHAT?**
+
+Why study policy? Because access to opportunity isn’t determined by policy alone. It’s shaped profoundly by how policies are understood, enacted, and negotiated. I've long been sucked in by questions like <span class="highlight">Who gets to decide?</span> and <span class="highlight">Whose knowledge matters?</span> and I keep them central in the questions I ask and the ways I seek to answer them.
 :::
 
 ::: section-card
 ## Quick links
 
--   **Current Projects:** a snapshot of what I’m working on now
--   **Publications:** journal articles, reports, briefs, and works in progress
--   **Presentations:** conference talks, webinars, and podcasts
--   **Contact:** email + links to Scholar/ORCID/GitHub
-:::
-
-::: section-card
-## Currently
-
--   Multilingual learners’ access to advanced coursework and how TAG identification shapes opportunity
--   Policy levers shaping course access (waiving services, extra instructional time, counselor availability)
--   Building open-access datasets on innovative school practices (The Canopy Project)
+-   [**Current Projects**](projects.qmd)
+-   [**Publications**](publications.qmd)
+-   [**Presentations**](presentations.qmd)
+-   [**Teaching**](teaching.qmd)
+-   [**Resources**](resources.qmd)
+-   [**Contact**](contact.qmd)
 :::
