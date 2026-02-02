@@ -48,11 +48,24 @@ Collaborative research work examining equity-related questions in education thro
 :::
 
 ::: project
+## **Designing Learning Experiences for Latinx Students: Insights from The Canopy**
+
+This project explores how equity-focused schools serving predominantly Latinx students design meaningful learning experiences for Latinx students Using publicly accessible data from The Canopy Project and funded by the University of Oregon's Center for Latino/a and Latin American Studies, it documents how schools committed to equity navigate constraints, sustain student-centered practices, and offer lessons for broader K–12 systems.
+
+[Visit the CLLAS website](https://cllas.uoregon.edu/){.btn-coral}
+
+**Methods:** Mixed-methods research; Survey design and analysis; Thematic analysis; Interviews; Logistic regression; Descriptive and inferential quantitative analysis; Triangulation
+
+**Outputs:** Research reports and public presentations, [including an upcoming presentation 3/12/26](https://cllas.uoregon.edu/all-upcoming-events/)
+
+:::
+
+::: project
 ## **Equitable Disproportionality Measurement Lab**
 
 An emerging research collaboration focused on questions of equity, measurement, and interpretation in education data, particularly for students with disabilities and multilingual learners.
 
-**Status**: *In formation... more soon!* 👀
+**Status:** *In formation... more soon!* 👀
 
 **Methods:** Quantitative analysis, QuantCrit
 

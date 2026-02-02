@@ -22,8 +22,7 @@ title: ""
 ## What I work on
 
 -   Access to learning opportunities for multilingual learners
--   How policy labels are interpreted and enacted in schools
--   Educators’ roles in ensuring families are informed of their rights and options
+-   How policies are interpreted and enacted in schools
 -   School and district innovation
 -   Equity-oriented measurement and open data
 -   Critical approaches to quantitative and mixed methods
